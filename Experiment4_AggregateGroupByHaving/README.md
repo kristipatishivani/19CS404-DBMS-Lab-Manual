@@ -1,6 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## Name:Sabeeha Shaik
-## Reg.no:212223230176
+## Name:kristipati shivani
+## Reg.no:212222060126
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
